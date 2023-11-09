@@ -1,6 +1,8 @@
 # OKMall Data Scraping Project
 
-This repository is dedicated to a data mining project that leverages API scraping from the OKMall website. The project allows asynchronous scraping of up to 5 pages simultaneously, collecting data in a structured format within HTML div elements. 
+![App](https://cdn.discordapp.com/attachments/1096569339886456883/1172168571997147197/Adsz1.webp)
+
+This repository is dedicated to a data mining project that leverages API scraping from the [OKMall website](https://okmall.com). The project allows asynchronous scraping of up to 5 pages simultaneously, collecting data in a structured format within HTML div elements. 
 
 The scraped data is stored in a database, offering users the flexibility to export it to Excel at their convenience. Users with limited time or slower computing resources can break down the process into separate stages: scraping, data cleaning, data parsing, and Excel export.
 
