@@ -27,8 +27,6 @@ To get started with this project, follow these steps:
 
 ## Usage
 
-Describe how to use the project, provide examples, and any other relevant information.
-
 ```python
 python main.py
 ```
